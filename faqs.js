@@ -1,3 +1,12 @@
+/*
+CIS 124: Introduction to JavaScript
+Murach's JavaScript & jQuery, 4e
+Chapter 6: Script the DOM with JavaScript
+
+Exercise 6-1 Experiment with the FAQs application
+Dominique Tepper, 02DEC2022
+*/
+
 "use strict";
 
 // the event handler for the click event of each h2 element
